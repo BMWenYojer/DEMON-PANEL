@@ -15,7 +15,7 @@
 It would help me a lot if you give a star ⭐ to this repository.<br>
 One star from you = more desire to continue updating DEMON PANEL
 
-# Stanley Info
+# DEMON-PANEL Info
 - [x] Open Source
 - [x] Stable
 - [x] Simple
